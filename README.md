@@ -1,2 +1,2 @@
 # Max Abitbol's website 
-created with Paradigm Shift by HTML5 UP (html5up.net | @ajlkn). 
+created with HTML5 UP by html5up.net | @ajlkn. 
